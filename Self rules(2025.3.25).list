@@ -3,6 +3,4 @@
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,creamdata
-IP-CIDR,13.251.24.0/24,no-resolve
-IP-CIDR,13.251.41.0/24,no-resolve
-IP-CIDR,17.252.156.0/23,no-resolve
+DOMAIN-KEYWORD,potato
